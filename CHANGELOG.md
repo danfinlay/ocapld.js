@@ -1,5 +1,8 @@
 # ocapld ChangeLog
 
+### Changed
+- Update webpack and babel.
+
 ## 1.0.2 - 2019-01-03
 
 ### Fixed
